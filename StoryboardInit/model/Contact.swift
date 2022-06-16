@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Post: Decodable{
+struct Contact: Decodable{
     var id: String? = ""
     var name: String? = ""
     var number: String? = ""

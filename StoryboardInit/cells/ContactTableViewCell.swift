@@ -7,10 +7,10 @@
 
 import UIKit
 
-class PostTableViewCell: UITableViewCell {
+class ContactTableViewCell: UITableViewCell {
 
-    @IBOutlet weak var nameL: UILabel!
-    @IBOutlet weak var numberL: UILabel!
+    @IBOutlet weak var titleLabel: UILabel!
+    @IBOutlet weak var numberLabel: UILabel!
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

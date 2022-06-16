@@ -10,7 +10,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HomeViewController" customModule="StoryboardInit" customModuleProvider="target">
             <connections>
-                <outlet property="tableView" destination="hQx-kC-rE0" id="LRb-yh-mIg"/>
+                <outlet property="tableView" destination="hQx-kC-rE0" id="bI4-3k-cc1"/>
                 <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
             </connections>
         </placeholder>
